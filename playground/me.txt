@@ -1,0 +1,3 @@
+Name: Sagar
+Skills: HTML, CSS, JavaScript, React, NextJS, TypeScript, NodeJS, ExpressJS, MongoDB
+Email: sagarmavai2002@gmail.com
